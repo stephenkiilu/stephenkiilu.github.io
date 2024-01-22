@@ -41,7 +41,7 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Havard University
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Statistics 
