@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Stephen Kiilu
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -33,6 +33,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -43,8 +44,8 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Statistics 
+      institution: Maseno University
       year: 2008
 
 # Skills
