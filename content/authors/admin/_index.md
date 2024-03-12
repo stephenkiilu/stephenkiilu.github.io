@@ -30,22 +30,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
   - Machine Learning
-  - NLP
+  - Natural Language Processing (NLP) in Medicine and Health.
+  - Application of Large Language Models (LLMs) in healthcare
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course:  MSc Machine Intelligence
+      institution: African Institute for Mathematical Sciences (AIMS) Senegal 
       year: 2012
-    - course: Havard University
-      institution: Massachusetts Institute of Technology
+    - course:  MSc Mathematical Sciences 
+      institution: African Institute for Mathematical Sciences (AIMS) Rwanda 
       year: 2009
-    - course: BSc in Statistics 
+    - course: BSc Applied Statistics with IT. 
       institution: Maseno University
       year: 2008
 
