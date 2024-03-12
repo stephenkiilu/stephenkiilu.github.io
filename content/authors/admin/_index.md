@@ -34,6 +34,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
   - Machine Learning
+  - NLP
 
 # Education to show in About widget
 education:
