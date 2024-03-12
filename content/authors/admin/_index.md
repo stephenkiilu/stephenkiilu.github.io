@@ -39,14 +39,14 @@ interests:
 education:
   courses:
     - course:  MSc Machine Intelligence
-      institution: African Institute for Mathematical Sciences (AIMS) Senegal 
-      year: 2012
+      institution: African Institute for Mathematical Sciences (AIMS) Senegal
+      year: 2023
     - course:  MSc Mathematical Sciences 
-      institution: African Institute for Mathematical Sciences (AIMS) Rwanda 
-      year: 2009
-    - course: BSc Applied Statistics with IT. 
+      institution: African Institute for Mathematical Sciences (AIMS) Rwanda
+      year: 2021
+    - course: BSc Applied Statistics with IT 
       institution: Maseno University
-      year: 2008
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
