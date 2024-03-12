@@ -122,6 +122,6 @@ social:
 highlight_name: true
 ---
 
-Awesome researcher
+I am a research fellow at the University of Tübingen, part of the Cluster of Excellence 'Machine Learning: New Perspectives for the Sciences.' Working under Professor Carsten Eickhoff in the Health NLP Lab, our focus is on mining, representing, and retrieving large-scale natural language resources. My research lies at the intersection of machine learning and natural language processing, with a keen interest in applying Large Language Models (LLMs) in healthcare and medicine. Prior to joining the University of Tübingen,  I obtained my MSc in Machine Intelligence from the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org/) at the [ African Institute for Mathematical Sciences (AIMS) ](https://nexteinstein.org/) in 2023.This followed an MSc in Mathematical Sciences at AIMS Rwanda in 2021 and a BSc in Applied Statistics with IT from Maseno University in 2018.
 
 {style="text-align: justify;"}
