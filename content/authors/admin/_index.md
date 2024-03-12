@@ -17,13 +17,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Researcher Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tubingen University
   
-    url: https://www.stanford.edu/
+    url: https://uni-tuebingen.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
