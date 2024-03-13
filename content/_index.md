@@ -246,7 +246,7 @@ sections:
         region: Baden-Württemberg
         postcode: '72074'
         country: Germany
-        country_code: De
+        country_code: DE
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
